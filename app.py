@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
 
-st.title("🧠 Pandemica - Disease Outbreak Estimator (No AI)")
+st.title("🧠 Pandemica - Disease Outbreak Estimator ")
 st.subheader("Simple statistical estimation for disease trend detection")
 
 st.sidebar.header("Simulate or Upload Data")
