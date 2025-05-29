@@ -73,4 +73,4 @@ for symptom in symptoms:
     ax.grid(True)
     st.pyplot(fig)
 
-st.caption("💡 Pandemica - Surveillance Without AI")
+st.caption("💡 Made by SIDDHNATH,Anish,Diganta,Aadrita,Monalisa")
